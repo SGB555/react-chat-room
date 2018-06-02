@@ -1,0 +1,9 @@
+.bossInfo-wrap {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.bossInfo-main {
+    flex: 1;
+}
